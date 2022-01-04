@@ -1,3 +1,3 @@
 # bandpass-filter-
 
-Bp program for INMP441 Mic Module
+Bandpass filtering program for INMP441 Mic Module
